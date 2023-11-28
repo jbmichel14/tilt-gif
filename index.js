@@ -1,9 +1,7 @@
 
 const files = ["assets/IMG_7392.jpg", "assets/IMG_7393.jpg", "assets/IMG_7394.jpg", "assets/IMG_7395.jpg"];
 const filesLength = files.length
-const minValue = -50;
-const maxValue = 50;
-const range = 100
+const range = 50
 
 function handleOrientation(e){
 
